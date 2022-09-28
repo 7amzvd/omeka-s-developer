@@ -1,4 +1,4 @@
-# For Omeka Classic Developers
+# For IcapLondom
 
 Omeka S follows the same spirit and principles of Omeka Classic of using open source software to help cultural heritage institutions make their holdings available on the web. The codebase, however, is completely different. The following is a quick guide to the differences in broad strokes. You'll want to read through the Key Concepts sections for details.
 
